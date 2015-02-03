@@ -1,0 +1,10 @@
+*.pub
+*.ppk
+*.mbtiles
+MapBox/cache/**
+MapBox/export/**
+MapBox/project/**
+cache_data/**
+OFF_BR_1526_ExperianHHs/**
+*.mbtiles
+mbtiles/**

@@ -1,0 +1,17 @@
+layers:
+ - name: BoisePoC
+   title: Boise Proof of Concept
+   sources: [mbtiles_cache]
+
+caches:
+  mbtiles_cache:
+    sources: []
+    grids: [GLOBAL_MERCATOR]
+    cache:
+      type: mbtiles
+      filename: C:/BoisePoC/mbtiles/BoisePoC_PMA_and_DTS_radius_7.mbtiles
+      
+services:
+  wms:
+    srs: ['EPSG:4326', 'EPSG:900913', 'EPSG:3857']
+    versions: ['1.1.1']
