@@ -1,5 +1,7 @@
 # Tableau Background Maps
 
+NOTE: this was created before the release of Tableau 9.0
+
 ## Add data to a new Tableau Book
 
 Data `->` Paste data (from clipboard)
