@@ -1,6 +1,6 @@
 # Tableau Background Maps
 
-NOTE: this was created before the release of Tableau 9.0
+**NOTE:** this work pre-dates the release of Tableau 9.0
 
 ## Add data to a new Tableau Book
 
